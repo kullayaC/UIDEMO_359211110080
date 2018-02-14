@@ -48,6 +48,6 @@ public class Controller implements Initializable {
         }catch (Exception ex){
             ex.printStackTrace();
         }
-    }//Login
+    }//login
 
 }//class
